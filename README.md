@@ -1,0 +1,2 @@
+# QuickRecord
+快记
